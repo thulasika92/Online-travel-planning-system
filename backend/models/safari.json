@@ -1,0 +1,127 @@
+
+[
+    {
+    "name": "Serengeti National Park",
+    "price": 350.00,
+    "description": "Witness the Great Migration in Tanzania's most famous wildlife reserve.",
+    "ratings": "4.9",
+    "images": [
+      { "image": "https://example.com/serengeti1.jpg" },
+      { "image": "https://example.com/serengeti2.jpg" }
+    ],
+    "vehicleType": "Jeep",
+    "user": "507f1f77bcf86cd799439011",
+    "createdAt": "2023-06-10T08:00:00Z"
+  },
+  {
+    "name": "Masai Mara Balloon Safari",
+    "price": 500.00,
+    "description": "A breathtaking aerial view of Kenya's wildlife from a hot air balloon.",
+    "ratings": "4.8",
+    "images": [
+      { "image": "https://example.com/masaimara1.jpg" }
+    ],
+    "vehicleType": "Boat",
+    "user": "507f191e810c19729de860ea",
+    "createdAt": "2023-07-15T09:30:00Z"
+  },
+  {
+    "name": "Kruger National Park",
+    "price": 280.00,
+    "description": "Explore South Africa's largest game reserve with expert guides.",
+    "ratings": "4.7",
+    "images": [
+      { "image": "https://example.com/kruger1.jpg" },
+      { "image": "https://example.com/kruger2.jpg" }
+    ],
+    "vehicleType": "Jeep",
+    "user": "507f1f77bcf86cd799439012",
+    "createdAt": "2023-05-20T10:15:00Z"
+  },
+  {
+    "name": "Okavango Delta Boat Safari",
+    "price": 320.00,
+    "description": "Navigate through Botswana's stunning waterways and see hippos & crocodiles.",
+    "ratings": "4.9",
+    "images": [
+      { "image": "https://example.com/okavango1.jpg" }
+    ],
+    "vehicleType": "Boat",
+    "user": "507f191e810c19729de860eb",
+    "createdAt": "2023-08-05T07:45:00Z"
+  }, 
+  {
+    "name": "Ngorongoro Crater Tour",
+    "price": 400.00,
+    "description": "Descend into the world's largest inactive volcanic crater for unmatched wildlife viewing.",
+    "ratings": "5.0",
+    "images": [
+      { "image": "https://example.com/ngorongoro1.jpg" },
+      { "image": "https://example.com/ngorongoro2.jpg" }
+    ],
+    "vehicleType": "Jeep",
+    "user": "507f1f77bcf86cd799439013",
+    "createdAt": "2023-09-12T11:20:00Z"
+  },
+  {
+    "name": "Bwindi Gorilla Trekking",
+    "price": 600.00,
+    "description": "Hike through Uganda's rainforest to encounter endangered mountain gorillas.",
+    "ratings": "4.9",
+    "images": [
+      { "image": "https://example.com/bwindi1.jpg" }
+    ],
+    "vehicleType": "Hiking",
+    "user": "507f191e810c19729de860ec",
+    "createdAt": "2023-04-18T06:00:00Z"
+  },
+  {
+    "name": "Chobe National Park Safari",
+    "price": 380.00,
+    "description": "Experience both boat and jeep safaris in Botswana's elephant paradise.",
+    "ratings": "4.7",
+    "images": [
+      { "image": "https://example.com/chobe1.jpg" },
+      { "image": "https://example.com/chobe2.jpg" }
+    ],
+    "vehicleType": "Boat",
+    "user": "507f1f77bcf86cd799439014",
+    "createdAt": "2023-10-22T12:30:00Z"
+  },
+  {
+    "name": "Amboseli Elephant Safari",
+    "price": 220.00,
+    "description": "See majestic elephants with Mount Kilimanjaro in the background.",
+    "ratings": "4.6",
+    "images": [
+      { "image": "https://example.com/amboseli1.jpg" }
+    ],
+    "vehicleType": "Bus",
+    "user": "507f191e810c19729de860ed",
+    "createdAt": "2023-03-05T14:00:00Z"
+  },
+  {
+    "name": "Etosha Salt Pan Safari",
+    "price": 290.00,
+    "description": "Discover Namibia's unique wildlife around the vast Etosha salt pan.",
+    "ratings": "4.5",
+    "images": [
+      { "image": "https://example.com/etosha1.jpg" }
+    ],
+    "vehicleType": "Jeep",
+    "user": "507f1f77bcf86cd799439015",
+    "createdAt": "2023-11-08T09:10:00Z"
+  },
+  {
+    "name": "Lake Nakuru Cycling Tour",
+    "price": 150.00,
+    "description": "A unique biking safari around Kenya's flamingo-filled lake.",
+    "ratings": "4.3",
+    "images": [
+      { "image": "https://example.com/nakuru1.jpg" }
+    ],
+    "vehicleType": "Bike",
+    "user": "507f191e810c19729de860ee",
+    "createdAt": "2023-02-14T16:45:00Z"
+  }
+]
